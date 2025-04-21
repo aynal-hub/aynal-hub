@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="Aynal.jpeg" alt="MD Aynal Hossain Banner" />
+  <img src="image.png" alt=" Banner" />
 </p>
 <!-- Social Icons -->
 <p align="center">
