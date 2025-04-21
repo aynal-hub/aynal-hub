@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm MD Aynal Hossain</h1>
-<p align="center">
-  A passionate and dedicated MERN Stack Web Developer with practical experience in building fast, responsive, and user-friendly web applications.
-</p>
-
----
-
 ### ▶ About Me
 
 Hi, I’m MD Aynal Hossain — a dedicated MERN Stack Web Developer who loves solving problems and building clean, scalable web applications.  
