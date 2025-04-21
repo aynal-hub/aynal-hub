@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="aynal-banner.png" alt="MD Aynal Hossain Banner" />
+  <img src="glasses-lie-laptop-reflecting-li.png" alt="MD Aynal Hossain Banner" />
 </p>
 <!-- Social Icons -->
 <p align="center">
