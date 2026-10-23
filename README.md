@@ -1,76 +1,15 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="image.png" alt=" Banner" />
-</p>
-<!-- Social Icons -->
-<p align="center">
-  <a href="https://www.facebook.com/hossainaynal16" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://x.com/aynal__in" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hossainaynal16" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aynal-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/leadexpert_4" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-</p>
+# 💫 About Me:
+Hi, I'm a Vibe Coding Developer and I love taking ideas and turning them into real digital products using AI and all the latest tools and tech. I specialise in creating stunning websites, web apps and all sorts of cool digital products. The aim is to help people and businesses bring their ideas to life with some really good design, some clever solutions and the end product is of a high standard. Let's bring your idea to life!
 
----
 
-### ▶ About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aynal.hossain.849555) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aynal__in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aynal.contact@gmail.com) 
 
-Hi, I’m MD Aynal Hossain — a dedicated MERN Stack Web Developer who loves solving problems and building clean, scalable web applications.  
-With experience in both front-end and back-end development, I work with technologies like React.js, Node.js, Express.js, and MongoDB to turn ideas into reality.  
-Whether it’s a full-stack solution or API integration, I focus on writing clean code, optimizing performance, and delivering user-centric interfaces.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aynal-hub&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aynal-hub&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aynal-hub&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### ☑️ Skills & Technologies
-
-- **Front-End** : HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript, jQuery, React JS  
-- **Back-End** : Node.js, Express.js, PHP, Laravel  
-- **Database** : MongoDB, MySQL  
-- **Version Control** : Git, GitHub  
-- Responsive Web Design  
-- UI/UX Design Principles  
-- Cross-Browser Compatibility  
-- Web Performance Optimization  
-- Problem Solving  
-
----
-
-### 🎓 Education
-
-- Diploma in Computer Science  
-- Web Application Development Training  
-
----
-
-### 📞 Contact Information
-
-- 📧 Email: hossainaynal16@gmail.com  
-- 📱 Phone: +8801727147610
-- 🔗 GitHub: [github.com/aynal-hub](https://github.com/aynal-hub)  
-- 🔗 LinkedIn: [linkedin.com/in/hossainaynal16](https://linkedin.com/in/hossainaynal16)  
-- 🔗 Facebook: [facebook.com/hossainaynal16](https://www.facebook.com/hossainaynal16)  
-- 🔗 Fiverr: [fiverr.com/leadexpert_4](https://www.fiverr.com/leadexpert_4)
-
----
-
-### 🌍 Languages
-
-- Fluent in English  
-- Conversational in Hindi  
-- Basic in Bangla  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
